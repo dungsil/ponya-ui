@@ -1,5 +1,5 @@
 import { createGenerator } from '@unocss/core'
-import { presetPonya } from 'ponya-ui'
+import { presetPonya } from '../..'
 
 export const uno = createGenerator({
   presets: [

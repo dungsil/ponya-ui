@@ -20,10 +20,6 @@ export type PonyaTheme = {
     base: number
     prose: number
 
-    display: number,
-    page: number,
-    section: number,
-
     [key: string]: string | number
   },
   lineHeight: {
