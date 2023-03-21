@@ -1,0 +1,225 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`align-items 1`] = `
+"/* layer: default */
+.items-center{align-items:center;}
+.items-end{align-items:flex-end;}
+.items-start{align-items:flex-start;}
+.items-stretch{align-items:stretch;}"
+`;
+
+exports[`align-self 1`] = `
+"/* layer: default */
+.self-auto{align-self:auto;}
+.self-center{align-self:center;}
+.self-end{align-self:flex-end;}
+.self-start{align-self:flex-start;}
+.self-stretch{align-self:stretch;}"
+`;
+
+exports[`clear 1`] = `
+"/* layer: default */
+.clear-left{clear:left;}
+.clear-none{clear:none;}
+.clear-right{clear:right;}"
+`;
+
+exports[`display 1`] = `
+"/* layer: default */
+.block{display:block;}
+.flex{display:flex;}
+.flow{display:flow;}
+.flow-root{display:flow-root;}
+.grid{display:grid;}
+.hidden{display:hidden;}
+.inline{display:inline;}
+.inline-block{display:inline-block;}
+.inline-flex{display:inline-flex;}
+.inline-grid{display:inline-grid;}
+.inline-table{display:inline-table;}
+.list-item{display:list-item;}
+.ruby{display:ruby;}
+.ruby-base{display:ruby-base;}
+.ruby-base-container{display:ruby-base-container;}
+.ruby-text{display:ruby-text;}
+.table{display:table;}
+.table-cell{display:table-cell;}
+.table-column-group{display:table-column-group;}
+.table-footer-group{display:table-footer-group;}
+.table-header-group{display:table-header-group;}
+.table-row{display:table-row;}
+.table-row-group{display:table-row-group;}"
+`;
+
+exports[`float 1`] = `
+"/* layer: default */
+.float-left{float:left;}
+.float-none{float:none;}
+.float-right{float:right;}"
+`;
+
+exports[`height 1`] = `
+"/* layer: default */
+.h-auto{height:auto;}
+.h-fit{height:fit-content;}
+.h-max{height:max-content;}
+.h-min{height:min-content;}
+.h1{height:0.25rem;}
+.h10{height:2.5rem;}"
+`;
+
+exports[`justify-content 1`] = `
+"/* layer: default */
+.justify-around{justify-content:space-around;}
+.justify-between{justify-content:space-between;}
+.justify-center{justify-content:center;}
+.justify-end{justify-content:flex-end;}
+.justify-evenly{justify-content:space-evenly;}
+.justify-start{justify-content:flex-start;}
+.justify-stretch{justify-content:stretch;}"
+`;
+
+exports[`justify-items 1`] = `
+"/* layer: default */
+.justify-items-around{justify-items:space-around;}
+.justify-items-between{justify-items:space-between;}
+.justify-items-center{justify-items:center;}
+.justify-items-end{justify-items:flex-end;}
+.justify-items-evenly{justify-items:space-evenly;}
+.justify-items-start{justify-items:flex-start;}
+.justify-items-stretch{justify-items:stretch;}"
+`;
+
+exports[`justify-self 1`] = `
+"/* layer: default */
+.justify-self-around{justify-self:space-around;}
+.justify-self-between{justify-self:space-between;}
+.justify-self-center{justify-self:center;}
+.justify-self-end{justify-self:flex-end;}
+.justify-self-evenly{justify-self:space-evenly;}
+.justify-self-start{justify-self:flex-start;}
+.justify-self-stretch{justify-self:stretch;}"
+`;
+
+exports[`max-height 1`] = `
+"/* layer: default */
+.\\\\<h-auto{max-height:auto;}
+.\\\\<h-fit{max-height:fit-content;}
+.\\\\<h-max{max-height:max-content;}
+.\\\\<h-min{max-height:min-content;}
+.\\\\<h1{max-height:0.25rem;}
+.\\\\<h10{max-height:2.5rem;}
+.\\\\<h100\\\\%{max-height:100%;}
+.\\\\<h153px{max-height:153px;}
+.\\\\<h50vh{max-height:50vh;}"
+`;
+
+exports[`max-width 1`] = `
+"/* layer: default */
+.\\\\<w-auto{max-width:auto;}
+.\\\\<w-fit{max-width:fit-content;}
+.\\\\<w-max{max-width:max-content;}
+.\\\\<w-min{max-width:min-content;}
+.\\\\<w1{max-width:0.25rem;}
+.\\\\<w10{max-width:2.5rem;}
+.\\\\<w100\\\\%{max-width:100%;}
+.\\\\<w153px{max-width:153px;}
+.\\\\<w50vh{max-width:50vh;}"
+`;
+
+exports[`min-height 1`] = `
+"/* layer: default */
+.\\\\>h-auto{min-height:auto;}
+.\\\\>h-fit{min-height:fit-content;}
+.\\\\>h-max{min-height:max-content;}
+.\\\\>h-min{min-height:min-content;}
+.\\\\>h1{min-height:0.25rem;}
+.\\\\>h10{min-height:2.5rem;}
+.\\\\>h100\\\\%{min-height:100%;}
+.\\\\>h153px{min-height:153px;}
+.\\\\>h50vh{min-height:50vh;}"
+`;
+
+exports[`min-width 1`] = `
+"/* layer: default */
+.\\\\>w-auto{min-width:auto;}
+.\\\\>w-fit{min-width:fit-content;}
+.\\\\>w-max{min-width:max-content;}
+.\\\\>w-min{min-width:min-content;}
+.\\\\>w1{min-width:0.25rem;}
+.\\\\>w10{min-width:2.5rem;}
+.\\\\>w100\\\\%{min-width:100%;}
+.\\\\>w153px{min-width:153px;}
+.\\\\>w50vh{min-width:50vh;}"
+`;
+
+exports[`overflow 1`] = `
+"/* layer: default */
+.overflow-auto{overflow:auto;}
+.overflow-clip{overflow:clip;}
+.overflow-hidden{overflow:hidden;}
+.overflow-inherit{overflow:inherit;}
+.overflow-initial{overflow:initial;}
+.overflow-overlay{overflow:overlay;}
+.overflow-scroll{overflow:scroll;}
+.overflow-unset{overflow:unset;}
+.overflow-visible{overflow:visible;}"
+`;
+
+exports[`overflow-x 1`] = `
+"/* layer: default */
+.overflow-x-auto{overflow-x:auto;}
+.overflow-x-clip{overflow-x:clip;}
+.overflow-x-hidden{overflow-x:hidden;}
+.overflow-x-inherit{overflow-x:inherit;}
+.overflow-x-initial{overflow-x:initial;}
+.overflow-x-overlay{overflow-x:overlay;}
+.overflow-x-scroll{overflow-x:scroll;}
+.overflow-x-unset{overflow-x:unset;}
+.overflow-x-visible{overflow-x:visible;}"
+`;
+
+exports[`overflow-y 1`] = `
+"/* layer: default */
+.overflow-y-auto{overflow-y:auto;}
+.overflow-y-clip{overflow-y:clip;}
+.overflow-y-hidden{overflow-y:hidden;}
+.overflow-y-inherit{overflow-y:inherit;}
+.overflow-y-initial{overflow-y:initial;}
+.overflow-y-overlay{overflow-y:overlay;}
+.overflow-y-scroll{overflow-y:scroll;}
+.overflow-y-unset{overflow-y:unset;}
+.overflow-y-visible{overflow-y:visible;}"
+`;
+
+exports[`position 1`] = `
+"/* layer: default */
+.absolute{position:absolute;}
+.fixed{position:fixed;}
+.relative{position:relative;}
+.static{position:static;}
+.sticky{position:sticky;}"
+`;
+
+exports[`width 1`] = `
+"/* layer: default */
+.w-auto{width:auto;}
+.w-fit{width:fit-content;}
+.w-max{width:max-content;}
+.w-min{width:min-content;}
+.w1{width:0.25rem;}
+.w10{width:2.5rem;}
+.w100\\\\%{width:100%;}
+.w153px{width:153px;}
+.w50vh{width:50vh;}"
+`;
+
+exports[`z-index 1`] = `
+"/* layer: default */
+.-z10{z-index:-10;}
+.z-auto{z-index:auto;}
+.z-inherit{z-index:inherit;}
+.z-initial{z-index:initial;}
+.z-unset{z-index:unset;}
+.z0{z-index:0;}"
+`;
